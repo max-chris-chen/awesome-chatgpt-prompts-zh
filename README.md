@@ -1,8 +1,5 @@
 # 🧠ChatGPT 中文调教指南
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=plexpt.chatgpt&left_color=blue&right_color=green)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPlexPt%2Fawesome-chatgpt-prompts-zh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
 [国内中文版](https://chat.plexpt.com/login?inviter=1)
@@ -13,56 +10,9 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 只需按照README.md文件中的提示输入即可。
 
-<div align=center>
-<img src="https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png" width="400"/> 
-  <p>本LOGO是由人工智能生成的，非常酷炫！</p>
-</div>
-
-[点击这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
-
-同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
-
-### **ChatGPT Plus帐号代开、120美元余额API号-独享： https://fk.fq.mk**
-
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
-------
-
-## 基于GPT3.5 和 4.0 的国内中文版智造喵
-
-智造喵  https://chat.plexpt.com
-
-![image](https://user-images.githubusercontent.com/15922823/232669433-f5fa80b7-c7ae-4274-9f06-ad510e655d39.png)
-
-
 ## 图片实例
 
 #### [一些有趣的玩法](./USEAGE.md)
-
-## 问题表
-
-[问题表](https://github.com/PlexPt/chatgpt-corpus)
-
-共约67万个问题，欢迎拿去炼丹。
-
-点击👇🏻传送链接，购买云服务器炼丹：
-- [**阿里云服务器**](https://51015.cn/ss/3vpds) 搜索选择 GPU 计算型
-- [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://url.cn/B7m0OYnG) 选择 GPU 云服务器
-
-[讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
-
-
-
-
-## 解除封印咒语
-
-#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
-
-#### [更多猫娘玩法点这个](./cat.md)
-
-
 
 ## 它能干什么? 
 
@@ -94,33 +44,6 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 | 医疗文案 | 它可以帮助你编写医疗文案，包括医疗产品说明、疾病预防、健康知识、医疗博客等。它可以帮助你使用专业的术语和语言，使你的文案更易于理解和接受。             |
 | 儿童读物 | 它可以帮助你编写儿童读物，包括故事书、绘本、启蒙读物、课外阅读等。它可以使用有趣、生动的语言和图片，吸引孩子们的注意力，并帮助他们学习和成长。           |
 | 小说   | 它可以帮助你编写小说，包括各种类型的小说，如言情、悬疑、恐怖、科幻等。它可以帮助你创造有趣、引人入胜的情节和角色，并为你提供专业的写作技巧和建议。         |
-
-
-
-## 微信体验交流群
-
-加入ChatGPT体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
-
-项目合作洽谈请联系微信`plexpt`（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
-
-|                  直接加群                  |               如果前面的过期，加我拉你入群               |                          国内中文体验公众号                          |
-|:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./pic/qun.jpg" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/230634011-289efbe1-f2b1-4b1e-bddb-f56f5ea6f5f6.jpg" width="300"/> |  <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> |
-
- 
-
-
-
-## 加入星球
-
-非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解跟进，可以加入我的知识星球。扫码了解详情, **三天无理由退款**
-
- 
-
-| 知识星球        |  
-| :----------: |  
-| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | 
-
 
 
 # 正经指南
@@ -722,11 +645,3 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 ## 充当词典
 
 >将英文单词转换为包括音标、中文翻译、英文释义、词根词源、助记和3个例句。中文翻译应以词性的缩写表示例如adj.作为前缀。如果存在多个常用的中文释义，请列出最常用的3个。3个例句请给出完整中文解释。注意如果英文单词拼写有小的错误，请务必在输出的开始，加粗显示正确的拼写，并给出提示信息，这很重要。请检查所有信息是否准确，并在回答时保持简洁，不需要任何其他反馈。第一个单词是“metroplitan”
-
-# Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-chatgpt-prompts-zh&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date)
-
-## 感谢
-
-[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)  本文部分内容翻译自此
